@@ -117,6 +117,10 @@ body {
   background-color: var(--accent-color);
 }
 
+.page {
+  color: var(--accent-color);
+}
+
 .footer {
   background: var(--bg-main-color);
   border-top: 1px solid var(--border-color);
